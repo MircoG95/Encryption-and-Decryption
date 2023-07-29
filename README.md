@@ -19,8 +19,8 @@ The file is saved after you have encrypted or decrypted it.
 
 ![image](https://github.com/MircoG95/Encryption-and-Decryption/assets/91058439/7fab0d05-bffc-4597-893a-253f74bee293)
 
-
 ![image](https://github.com/MircoG95/Encryption-and-Decryption/assets/91058439/45f2e73c-e4c4-4447-85e0-1506099816b6)
+
 ![image](https://github.com/MircoG95/Encryption-and-Decryption/assets/91058439/8d35e061-7dd2-4827-ab23-c893d26061e2)
 
 
